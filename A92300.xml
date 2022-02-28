@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rebells letter to the Pope. VVherein they present unto him their late purchases by the svvord in Ireland, praying his benediction for their future proceedings. Sent and communicated by an Irish priest unto his friends here in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92300</idno>
+            <idno type="STC">Wing R602</idno>
+            <idno type="STC">Thomason E131_23</idno>
+            <idno type="STC">ESTC R22970</idno>
+            <idno type="EEBO-CITATION">99871876</idno>
+            <idno type="PROQUEST">99871876</idno>
+            <idno type="VID">156341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156341)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E131[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rebells letter to the Pope. VVherein they present unto him their late purchases by the svvord in Ireland, praying his benediction for their future proceedings. Sent and communicated by an Irish priest unto his friends here in England.</title>
+                  <author>O'Neill, Phelim, Sir, 1604?-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Ianuary 20. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on p. 6: Given in our Catholike campe the 20th of December 1641, stilo novo .. Oneale Omaghon. Mac Cartie More. Mac Donogh Macquire.</note>
+                  <note>An apparent forgery, often wrongly attributed to Sir Phelim O'Neill.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  Ireland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156341:1" rendition="simple:additions"/>
+            <head>THE REBELLS LETTER TO THE POPE.</head>
+            <p>VVherein they preſent unto him their Late Purchaſes by the Sword in <hi>Ireland,</hi> praying his Benediction for their future Proceedings.</p>
+            <p>Sent and communicated by an <hi>Iriſh</hi> Prieſt unto his friends here in <hi>England.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Ianuary</hi> 20. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156341:2"/>
+            <pb n="1" facs="tcp:156341:2"/>
+            <head>A LETTER FROM THE Chieftains of the <hi>Iriſh</hi> Rebels unto the POPE.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Oſt holy Father, Foraſmuch as we being lately moved and ſtirred up by the inſtinct and will of Almighty God, to recover this Kingdome from the heavy yoke of the <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> who for many yeers paſt by force have kept under, and ſuppreſſed both our Religi<g ref="char:EOLhyphen"/>on and Nation; Have now, making uſe of the advantages of the time, while the Here<g ref="char:EOLhyphen"/>tiques are in civill diſcord, with great cou<g ref="char:EOLhyphen"/>rage and alacrity broke our bonds, and wel<g ref="char:EOLhyphen"/>nigh totally freed our ſelves from their yoke: We therefore now have thought it our duty to declare unto your Holineſſe, that it hath alwayes been, and ever ſhall be, <pb n="2" facs="tcp:156341:3"/> our principall care and endeavour to revive the State of the Catholique Church here al<g ref="char:EOLhyphen"/>moſt extinguiſhed, and to reſtore her ruins; as reputing it with our ſelves for our part and duty to ſpend and imploy our very lives and all our ſubſtance in the propa<g ref="char:EOLhyphen"/>gation and inlargement of the ſame: To which alſo we have been the more willing<g ref="char:EOLhyphen"/>ly induced (if not compelled) for that if we had not uſed this timely prevention againſt miſchief, we were like to have expected a worſe eſtate and being here, then that which the <hi>Turks</hi> afford unto their Chriſtian Sub<g ref="char:EOLhyphen"/>jects: inſomuch that we muſt have left ei<g ref="char:EOLhyphen"/>ther our countrey, lives, or Religion; Where<g ref="char:EOLhyphen"/>fore being at this point, unto whom with more right and hope can we make our re<g ref="char:EOLhyphen"/>courſe for help and aſſiſtance then unto thee our ſpirituall Father on earth, that under the Wings of thy favour and benediction, we may finde ſecuritie in all our enterpriſes: Which thing we hope to obtain of your Holineſſe, by the example of others who have never ſought in vain for grace and fa<g ref="char:EOLhyphen"/>vour from your holy See in their need and
+<pb n="3" facs="tcp:156341:3"/> affliction; Vnto thee therefore, the common Father of mercy unto all the ſonnes of the Church, as unto our onely refuge and moſt ſafe Sanctuary we make this our addreſſe, moſt humbly beſeeching that thou wilt hear our ſighs, receive our prayers, and grant our requeſts, that the mouthes may be ſtop<g ref="char:EOLhyphen"/>ped, and the force broken of them that hate thee, and threaten to hinder the re-edificati<g ref="char:EOLhyphen"/>on of the broken walls of our Ieruſalem. Wherein if your Holineſſe will vouchſafe credit unto us (without arrogance be it ſpo<g ref="char:EOLhyphen"/>ken) never any of our predeceſſors ſince the time our Kingdome firſt came into the hands of the <hi>Engliſh,</hi> have been more for<g ref="char:EOLhyphen"/>ward and gone further in the propagation of the holy faith firſt brought in unto us by our holy Apoſtle St. <hi>Patrick</hi> then our ſelves; and to cheriſh, amplifie, and ſpread the ſame, having now welnigh caſt off the here<g ref="char:EOLhyphen"/>ticall yoke of the <hi>Engliſh,</hi> whereunder it lay almoſt extinguiſhed and buried in theſe parts: For in theſe our endeavours we deſire and aime at no other thing then the defence of the Catholique faith, and of the glory of <pb n="4" facs="tcp:156341:4"/> the Roman See, in the reflouriſhing of the ſame in this Kingdom. Wherefore let your Holines vouchſafe to incline to theſe Peti<g ref="char:EOLhyphen"/>tions of us, who contemning honours and profits whatſoever, deſire not to live a day longer, then that they may ſee the Church of Rome floriſh throughout the Vniverſe.</p>
+            <p>Now in the firſt place, our requeſt is, that for the better increaſe of the faith, to thoſe Eccleſiaſticall Sees that are voyd in this Kingdome, ſuch may be preferred who are eminent for learning, and policie, who together with us take great paines in the promotion and advancing forward of the Catholike Cauſe, being ſuch whom wee with the moſt Reverend Biſhop of <hi>Cork,</hi> have nominated and commended, as Pa<g ref="char:EOLhyphen"/>ſtours fit to inſtruct thy flock, both with the Word, and by their owne example; leſt otherwiſe men, perhaps coming with more ambition and authoritie then worth, intrude themſelves into the managing of the Catholike Cauſe in this Kingdome: To which requeſt wee are moved by the great loſſe of many fallen away to the Ad<g ref="char:EOLhyphen"/>verſary, <pb n="5" facs="tcp:156341:4"/> which here wee have ſuffered through the paucitie of Paſtours in either Province of <hi>Mounſter,</hi> which conteineth E<g ref="char:EOLhyphen"/>leven Biſhopricks, all under the Metropolis of <hi>Caſsills:</hi> The reverend Biſhop of <hi>Cork</hi> be<g ref="char:EOLhyphen"/>ing alſo wholly worne out and ſpent with age and labour. And this wee the more boldly crave, for that thoſe that have beene elected, conſecrated, and ſent from your ſa<g ref="char:EOLhyphen"/>cred See to poſſeſſe the places voyd in theſe parts, are by us (with the aſſiſtance of Al<g ref="char:EOLhyphen"/>mightie God) ſo defended and ſecured, that they may with ſafetie watch over and tend the flocks committed to their charge.</p>
+            <p>Moreover, Wee deſire that as your prede<g ref="char:EOLhyphen"/>ceſſours, <hi>Pius Quintus,</hi> and <hi>Gregorie</hi> the thir<g ref="char:EOLhyphen"/>teenth, of happie memory, publiſhed and ſent their Buls of Excommunication againſt the late Queene of <hi>England,</hi> and her Adhe<g ref="char:EOLhyphen"/>rents; Even ſo that your Holines would vouchſafe at this time to denounce and ſend forth the like Sentence againſt all our here<g ref="char:EOLhyphen"/>ticall Oppoſers, for the furtherance and ad<g ref="char:EOLhyphen"/>vancement of this Warre, and the facilita<g ref="char:EOLhyphen"/>ting of a happy and wiſhed conſummation of the ſame.</p>
+            <p>
+               <pb n="6" facs="tcp:156341:5"/> And laſtly, with the greateſt affection of our hearts that wee are able, wee commend and commit unto your ſanctitie, this your Kingdome, that depends on your ſelfe one<g ref="char:EOLhyphen"/>ly (under God) together with our ſelves as your humble Subjects, and the bearers here<g ref="char:EOLhyphen"/>of our Ambaſſadours unto your Holines, who will more fully by word of mouth what we (aſſiſted with their helpe and do<g ref="char:EOLhyphen"/>ctrine) have atchieved in this Warre, Pray<g ref="char:EOLhyphen"/>ing that your Holines will vouchſafe unto them undoubted credit and beliefe.</p>
+            <closer>
+               <dateline>Given in our Catholike Campe
+<date>the 20<hi rend="sup">th</hi> of <hi>December</hi> 1641. <hi>Stilo novo.</hi>
+                  </date>
+               </dateline>
+               <signed>Your Holineſſes moſt obedient Sonnes and moſt faithfull Subjects;
+<list>
+                     <item>Oneale Omaghon.</item>
+                     <item>Mac Cartie More.</item>
+                     <item>Mac Donogh Macquire.</item>
+                  </list> 
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
